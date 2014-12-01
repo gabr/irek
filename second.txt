@@ -1,2 +1,3 @@
 Testowa linia
+Moja własna zła linia testowa
 
