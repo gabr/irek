@@ -1,3 +1,4 @@
 Testowa linia
 Druga linia testowa
+=0.0= < MIAŁŁ!
 }:> buahahahahah
